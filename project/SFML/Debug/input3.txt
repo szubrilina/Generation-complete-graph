@@ -1,0 +1,55 @@
+18 18
+Doc_Borisof 1
+Doc_Andreef 2
+Doc_Boef 3
+Doc_Tolstof 4
+Doc_Golybov 5
+Doc_Kirin 6
+Doc_Artuganov 7
+Doc_Duminov 8
+Doc_susinov 9
+Doc_Pilulkin 10
+Doc_Izlehilov 11
+Doc_Pomogalov 12
+Doc_Ykolalov 13
+Doc_Yspokalov 14
+Doc_Yyeshalov 15
+Doc_Doctorovih 16
+Doc_Doskovish 17
+Doc_Makarovih 18
+Zubrilina 1
+Perveevih 2
+Pokashalov 3 
+Shmailovih 4
+Batracova 5
+Grednevih 6
+Aleninovih 7
+Kyznezovih 8
+Shamaevish 9
+Kovershenko 10
+Simakova 11
+Bolotova 12
+Mazaevih 13
+Popovish 14
+Alehinov 15
+Dergynov 16
+Orehovih 17
+Savhishkin 18
+1 2 3 4 5 6 7 8 9 10 13 14 18 
+1 2 11 12 13 15 17 18 16
+1 2 3 4 5 6 7 8 9 17
+11 12 13 14 15
+1 2 3 4 5 6 7 8 9 10 11 13 14 15
+1 4 9 10 11 12 13 14 15
+10 11 12 13 14 15 16 18 17
+1 2 3 4 5 6 7 8 9 10 11 15 
+2 3 4 5 6 7 8 9 10 11 12 13 14 15
+1 2 11 12 13 14 15 18
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+3 4 5 6 7 8 9 15 18
+1 2 3 4 5 13 14 15
+1 4 5 6 7 10 14 15 17 18
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+3 4 8 9 10 11 15 18
+3 7 8 13 14 15 16
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
